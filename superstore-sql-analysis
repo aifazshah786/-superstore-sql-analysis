@@ -1,5 +1,5 @@
--- 📁 Superstore Data Analysis Project (SQL)
--- 📌 GitHub-Ready SQL Script for Interview Portfolio
+-- Superstore Data Analysis Project (SQL)
+-- 📌 GitHub- SQL Portfolio of Superstore Data Analysis
 
 -- 🧹 1. Preview First 10 Records
 SELECT TOP 10 * FROM superstore_data;
